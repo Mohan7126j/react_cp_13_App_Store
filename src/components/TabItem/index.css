@@ -1,0 +1,16 @@
+/* Write your CSS here */
+button {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 3px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 3px #dfe2e5 solid;
+  font-size: 14px;
+  color: #7b8794;
+}
+
+.active-tab {
+  color: #2563eb;
+  border-bottom: 3px #2563eb solid;
+}
